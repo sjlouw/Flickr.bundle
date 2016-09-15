@@ -5,7 +5,7 @@ Flickr channel plugin for Plex
 <img src="https://github.com/sjlouw/Flickr.bundle/raw/master/Contents/Resources/icon-flickr.png" width="256" height="256" border="0">
 </a>
 
-A Plex channel plugin for Flickr. Original source cloned from **ichivers's** [fixed branch](https://github.com/ichivers/FlickR.bundle)
+A Plex channel plugin for Flickr. Original source cloned from **ichivers's** [repository](https://github.com/ichivers/FlickR.bundle). Original [blog post](http://blog.ianchivers.com/2015/12/flickr-channel-for-plex-media-server.html).
 
 Linux Installation Instructions
 -------------------------------
